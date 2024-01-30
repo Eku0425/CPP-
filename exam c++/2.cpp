@@ -28,7 +28,8 @@ main()
   int	 hour=totalsec/3600;
   totalsec=totalsec%3600;
   int	min=totalsec/60;
-  int	sec=totalsec/3600;
+  int	sec=totalsec/60;
+
 	
 	cout<<"hour"<<endl<<hour<<"min"<<endl<<min<<endl<<"sec"<<endl<<sec;
 	
