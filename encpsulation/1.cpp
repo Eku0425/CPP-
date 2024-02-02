@@ -11,10 +11,7 @@
 #include<string.h>
 using namespace std;
 
-//void Showtitle()
-//{
-//	cout<<"STUNDENT RECORD : ";
-//}
+
      
 
 class Data
@@ -81,7 +78,7 @@ void get()
 int main()
 {
 	Data d1[5];
-//	Showtitle();
+
 	int i;
 	
 	for(i=0;i<5;i++)
