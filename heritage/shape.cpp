@@ -10,7 +10,7 @@ class Shape
 {
 	  public:
 	  	
-	  	double height, width;
+	  	int  height, width;
 	  	
 	  	void get ()
 	  	{
